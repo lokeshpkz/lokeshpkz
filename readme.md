@@ -1,23 +1,18 @@
+# Hey, I'm Lokesh 👋
 
-# Hey, I'm Lokesh 👋  
+**Backend Developer · Web Developer · Discord Bot Developer**
 
-Creative **Web Developer**, **Discord Bot Dev & Reverse Engineer**. Passionate about interactive designs, seamless user experiences, and advanced **memory manipulation** techniques. 
+I build fast, scalable, and reliable software with a focus on backend systems, web applications, and automation.
 
-## 🔧 Technologies & Tools  
-- **JavaScript & Frontend Libraries:** React.js, GSAP, and more  
-- **Styling:** CSS, Sass, and other modern styling solutions
-- **.NET (C#):** Developed performant desktop applications and built [Nexx32Lib](https://www.nuget.org/packages/Nexx32Lib) — an easy-to-use C# library for fast game memory manipulation with AOB scan & replace, supporting both 32-bit and 64-bit processes.
-- **Python (Discord Bots):** Developed multiple feature-rich Discord bots with custom commands, automation, and user interaction.
+### Stack
 
----  
+JavaScript · Node.js · Express.js · React · MongoDB · Redis · PostgreSQL · Docker · C++ · C# · Python
 
-📬 Get in Touch
-Whether you have a project in mind, a collaboration idea, or just want to say hi — I'm always open to connecting!
+### Projects
 
-📸 Instagram: [@nexxlokesh](https://www.instagram.com/nexxlokesh/)
+- **Nexx32Lib** — C#/.NET library for Windows process-memory tooling.
+- **Discord Bots** — Custom bots, automation, APIs, and utility systems.
 
-📧 Email: lk07062005@gmail.com
+### Connect
 
-🧑‍💻 Portfolio: [Portfolio](https://nexxlokesh.pro/)
-
-<div align="center"> <strong>Let’s build something amazing together.</strong><br> <em>Crafting seamless experiences for brands</em> 💻✨ </div>
+🌐 [Portfolio](https://nexxlokesh.in/) · 📸 [Instagram](https://www.instagram.com/nexxlokesh/) · 📧 `lk07062005@gmail.com`

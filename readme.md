@@ -1,37 +1,20 @@
-# Lokesh Kumar
+# Hey, I'm Lokesh 👋  
 
-**Backend Developer**
+I design and engineer fast, scalable, and reliable web products --- from backend architecture and APIs to polished user experiences.
+## 🔧 Technologies & Tools  
+- **JavaScript & Web Development:** React.js, GSAP, and modern web technologies  
+- **Backend:** Node.js, Express.js, REST APIs, MongoDB, Redis, PostgreSQL  
+- **.NET (C#):** Building performant desktop applications and developer tools, including [Nexx32Lib](https://www.nuget.org/packages/Nexx32Lib) — a C# library for Windows process-memory tooling.
+- **Python & Discord:** Developing feature-rich Discord bots with automation, custom commands, API integrations, and user-focused features.
+- **DevOps & Tools:** Docker, Git, GitHub, and modern development workflows.
 
-I design and engineer fast, scalable, and reliable web products --- from
-backend architecture and APIs to polished user experiences.
+---  
 
-### Stack
+📬 Get in Touch
+Have a project, collaboration idea, or something interesting to build? I'm always open to connecting and working on new ideas.
 
-`JavaScript` · `Node.js` · `Express.js` · `React` · `MongoDB` · `Redis`
-· `PostgreSQL` · `Docker` · `C++` · `C#` · `Python`
+📧 Email: lk07062005@gmail.com
 
-### Work
+🧑‍💻 Portfolio: [Portfolio](https://nexxlokesh.pro/)
 
--   **Web Development** --- Responsive and interactive web applications.
--   **Backend Development** --- APIs, databases, architecture, and
-    scalable systems.
--   **Discord Bots** --- Automation, custom commands, integrations, and
-    utility systems.
--   **Desktop & .NET** --- C#/.NET applications and developer tools.
-
-### Featured
-
-**Nexx32Lib** --- A C#/.NET library for Windows process-memory tooling.\
-[NuGet](https://www.nuget.org/packages/Nexx32Lib)
-
-### Connect
-
-[Portfolio](https://nexxlokesh.pro/) · `lk07062005@gmail.com`
-
-------------------------------------------------------------------------
-
-::: {align="center"}
-`<strong>`{=html}Let's build something amazing
-together.`</strong>`{=html}`<br>`{=html} `<em>`{=html}Crafting seamless
-experiences for brands`</em>`{=html} 💻✨
-:::
+<div align="center"> <strong>Let’s build something amazing together.</strong><br> <em>Turning ideas into fast, reliable software</em> 💻✨ </div>
